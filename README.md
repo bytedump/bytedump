@@ -1,8 +1,4 @@
-<h1 align="center">Hi, I'm bytedump 👋</h1>
-
-<p align="center">
-  <strong>Cybersecurity Student</strong> · Network Monitoring · Infrastructure · Automation
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:009c3b&height=200&section=header&text=bytedump&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Cybersecurity%20%C2%B7%20Network%20Monitoring%20%C2%B7%20Automation&descAlignY=62&descSize=18" width="100%" alt="banner" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Security%20%26%20Monitoring-1e2327?style=flat-square" alt="Focus" />
@@ -34,6 +30,19 @@ Cybersecurity student focused on **network monitoring, infrastructure and automa
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bytedump&show_icons=true&count_private=true&hide_border=true&title_color=009c3b&icon_color=009c3b&text_color=c9d1d9&bg_color=1e2327" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bytedump&layout=compact&hide_border=true&title_color=009c3b&text_color=c9d1d9&bg_color=1e2327" alt="top languages" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com/?user=bytedump&hide_border=true&background=1e2327&stroke=009c3b&ring=009c3b&fire=009c3b&currStreakLabel=009c3b&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak" />
+</p>
 
 ---
 
