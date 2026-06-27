@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi 👋
 
-<!--
-**bytedump/bytedump** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity student focused on **network monitoring, infrastructure and automation**. I like keeping systems healthy, secure and reliable, and cutting repetitive manual work with scripts.
 
-Here are some ideas to get you started:
+### 🔧 What I work with
+- **Monitoring & observability:** Zabbix, Grafana
+- **Automation & scripting:** PowerShell, Bash, Python
+- **Systems & networking:** Windows, Linux, networking / NOC fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Featured projects
+- **zabbix-printer-monitoring** — Printer toner-level monitoring with Zabbix + Grafana (TV kiosk dashboard).
+- **windows-automatization** — Hands-free Windows 11 provisioning from a USB drive (autounattend.xml + a PowerShell GUI), with secrets kept off the repo.
+
+### 🌱 Currently
+Learning more about information security, networking and infrastructure, always hands-on.
